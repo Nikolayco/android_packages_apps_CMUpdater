@@ -90,7 +90,7 @@
     <string name="sysinfo_last_check">Son kontrol:</string>
 
     <!-- changelog strings -->
-    <string name="no_changelog_alert">Değişiklik kaydı yok</string>
-    <string name="failed_to_load_changelog">Değişiklik kaydı yüklenemedi</string>
-    <string name="changelog_dialog_title">Değişiklik kaydı</string>
+    <string name="no_changelog_alert">Herhangi bir yenilik yok</string>
+    <string name="failed_to_load_changelog">Yenilikler yüklenemedi</string>
+    <string name="changelog_dialog_title">Yenilikler</string>
 </resources>
